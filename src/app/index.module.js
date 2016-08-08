@@ -20,22 +20,7 @@
             // Quick panel
             'app.quick-panel',
 
-            // Apps
-            'app.dashboards',
-            'app.calendar',
-            'app.mail',
-            'app.file-manager',
-            'app.scrumboard',
-            'app.gantt-chart',
-            'app.todo',
-
-            // Pages
-            'app.pages',
-
-            // User Interface
-            'app.ui',
-
-            // Components
-            'app.components'
+            // Sample
+            'app.sample'
         ]);
 })();
